@@ -20,7 +20,13 @@ cho mang array la cac so
 var array = [1,2,3,4,5,6]
 ```
 Tinh tong cac phan tu trong mang vd o day se la: 1+2+3+4+5+6 = 21
+```
+2.0.1
+Cho array 
+var array = [1,2,3,4,5]
 
+in ra các số > 4
+```
 Bài 2.1 Advanced : 
 Cho 1 mảng 2 chiều có bảng điểm như sau 
 

@@ -99,3 +99,20 @@ console.log(myDog)
 // Xoa di friends 
 delete myDog.friends
 console.log(myDog)
+
+//           0 1 2 3 4 5
+var array = [1,2,3,4,5,6]
+var sum = 0;
+for(let index in array) { 
+    sum += array[index] // nhu nhau o duoi 
+    // sum = sum + array[index]
+}
+// console.log(sum)
+var array = [1,2,3,4,5,6]
+
+for(let index in array) {
+    if (array[index] > 4) {
+        console.log(array[index])
+    }
+    //console.log(array[index])
+} 
