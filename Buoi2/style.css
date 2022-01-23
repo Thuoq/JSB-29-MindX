@@ -1,0 +1,36 @@
+/* h1 { 
+   color: blue; 
+   text-align: center;
+}
+.text_h1 {
+    color: red;
+}
+#id_h1 { 
+    color: green;
+} */
+/* 
+tagname  { 
+
+    thuoc_tinh: gia_tri
+}
+.className { 
+    thuoc_tinh: gia_tri
+}
+#idName { 
+    thuoc_tinh: gia_tri
+}
+
+GIai thich thuong dung cai nao ? Tai sao sinh ra cai do ? 
+
+*/
+/* 
+display: inline vs block
+ 
+*/
+
+p { 
+    font-size: 30px;
+    text-indent: 20px;
+    word-spacing:20px ;
+    /* display: inline; */
+}
