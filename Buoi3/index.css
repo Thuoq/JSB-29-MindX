@@ -1,0 +1,75 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container { 
+    background-color: blue;
+    color: white;
+    /* margin-bottom: 20px;
+    padding: 5px; */
+    height: 45px;
+}
+/*  Syntax padding, margin
+padding: *px || auto
+**Syntax-1**
+padding-top: 15px;
+padding-right: 25px;
+padding-bottom: 30px;
+padding-left: 10px;
+**Syntax-2**
+padding: top right bottom left;
+padding: 15px 25px 30px 10px;
+padding: 15px;
+*/
+/* 
+Syntax: border 
+
+**Syntax border**
+**Syntax-1**
+border-style: dash| solid | dotted 
+border-width: *px;
+border-color: color;
+**Syntax-2**
+border: width style color ;
+
+
+border-radius: *px | *%
+*/
+
+/* .div-1 {
+    background-color: red;
+    padding: 15px 20px 20px 20px;
+    border:5px solid black;
+    border-radius:2px;
+} */
+
+.div-1{ 
+    /* background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(152,65,77,0.7418154761904762) 35%, rgba(0,212,255,1) 100%);  */
+}
+/* Syntax 
+background-image: url("duong_den_image");
+background-repeat: repeat | repeat-x | repeat-y 
+background-size: *%| cover
+background-position: center | x y
+background-attachment: fixed|  *scroll
+*/
+.div-2{
+    background-color: red;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding-left: 20px;
+    border-radius: 2px;
+    
+    /* background-image: url("./paternimg.webp");
+    background-size: 20%;
+    background-repeat: repeat; */
+}
+.div-3 {
+    /* background-image: url("https://cdn.pixabay.com/photo/2017/02/15/20/33/floral-2069810_960_720.png");
+    background-size: 90%;
+    background-position: 100px 100px; */
+}
